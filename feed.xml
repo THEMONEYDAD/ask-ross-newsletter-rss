@@ -1,1 +1,19 @@
-{object}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ask Ross Newsletter</title>
+    <link>https://themoneydad.github.io/ask-ross-newsletter-rss/</link>
+    <description>Monthly newsletter with tips, updates, and insights on Canadian real estate and finance.</description>
+
+    <!-- Example Item -->
+    <item>
+      <title>MARCH 2025 | The US Trade War is Reshaping Canada’s Housing Market | Ask Ross Newsletter</title>
+      <link>https://mailchi.mp/askross/us-trade-war-reshaping-canada-housing-market</link>
+      <description><![CDATA[Rising tariffs and economic uncertainty are shaking Canada’s housing market. Here’s what it means for mortgage rates and Canadian real estate.]]></description>
+      <author>ASK ROSS</author>
+      <pubDate>Sat, 01 Mar 2025 09:00:00 +0000</pubDate>
+      <enclosure url="https://mcusercontent.com/5f3d59ec9c3a0bb7b975e65a9/images/185896a7-9ca0-f8e0-1497-725312bd2011.png" type="image/png"/>
+    </item>
+
+  </channel>
+</rss>
