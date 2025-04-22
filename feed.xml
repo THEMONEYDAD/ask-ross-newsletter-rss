@@ -1,4 +1,4 @@
-replace(toString(<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>Ask Ross Newsletter</title>
@@ -17,12 +17,3 @@ replace(toString(<?xml version="1.0" encoding="UTF-8"?>
 
   </channel>
 </rss>
-); "</channel>"; toString(<item>
-  <title>Your Spring Advantage: Play the Market Before It Plays You | Ask Ross Newsletter</title>
-  <link>https://mailchi.mp/askross/spring-advantage-play-the-market</link>
-  <description><![CDATA[Mortgage shake-up alert: New policies, fierce lender competition, and surprising buyer perks are reshaping the game this spring. If you're not watching closely, you could miss out big.]]></description>
-  <author>ASK ROSS</author>
-  <pubDate>Tue, 22 Apr 2025 14:00:00 -04:00</pubDate>
-  <enclosure url="https://mcusercontent.com/5f3d59ec9c3a0bb7b975e65a9/images/b2ba1fe0-2587-eef7-fa21-8d6913e28036.png" type="image/png"/>
-</item>
-) & "</channel>")
