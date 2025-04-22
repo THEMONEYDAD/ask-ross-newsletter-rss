@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>Ask Ross Newsletter</title>
-    <link>https://themoneydad.github.io/ask-ross-newsletter-rss/</link>
-    <description>Monthly newsletter with tips, updates, and insights on Canadian real estate and finance.</description>
-
-    <!-- Example Item -->
-    <item>
-      <title>MARCH 2025 | The US Trade War is Reshaping Canada’s Housing Market | Ask Ross Newsletter</title>
-      <link>https://mailchi.mp/askross/us-trade-war-reshaping-canada-housing-market</link>
-      <description><![CDATA[Rising tariffs and economic uncertainty are shaking Canada’s housing market. Here’s what it means for mortgage rates and Canadian real estate.]]></description>
-      <author>ASK ROSS</author>
-      <pubDate>Sat, 01 Mar 2025 09:00:00 +0000</pubDate>
-      <enclosure url="https://mcusercontent.com/5f3d59ec9c3a0bb7b975e65a9/images/185896a7-9ca0-f8e0-1497-725312bd2011.png" type="image/png"/>
-    </item>
-
-  </channel>
+<channel>
+  <item>
+    <title>Your Spring Advantage: Play the Market Before It Plays You | Ask Ross Newsletter</title>
+    <link>https://mailch.mp/askross/spring-advantage-play-the-market</link>
+    <description><![CDATAYMortgage shake-up alert: New policies, fierce lender competition, and surprising buyer perks are reshaping the game this spring. If you're not watching closely, you could miss out big.]]></description>
+    <author>ASK ROSS</author>
+    <pubDate>Tue, 22 Apr 2025 14:00:00 -04:00</pubDate>
+    <enclosure url="https://mcusercontent.com/5f3d59ec9c3a0bb7b975e65a9/images/b2ba1fe0-2587-eef7-fa21-8d6913e28036.png" type="image/png"/>
+  </item>
+  <title>Ask Ross Newsletter</title>
+  <link>https://themoneydad.github.io/ask-ross-newsletter-rss/</link>
+  <description>Monthly newsletter with tips, updates, and insights on Canadian real estate and finance.</description>
+  <!-- Example Item -->
+  <item>
+    <title>MARCH 2025 | The US Trade War is Reshaping Canadaa’s Housing Market | Ask Ross Newsletter</title>
+    <link>https://mailch.mp/askross/us-trade-war-reshaping-canada-housing-market</link>
+    <description><![CDATA[Rising tariffs and economic uncertainty are shaking Canadab��s housing market. Here’s what it means for mortgage rates and Canadian real estate.]]></description>
+    <author>ASK ROSS</author>
+    <pubDate>Sat, 01 Mar 2025 09:00:00 +0000</pubDate>
+    <enclosure url="https://mcusercontent.com/5f3d59ec9c3a0bb7b975e65a9/images/185896a7-9ca0-f8e0-1497-725312bd2011.png" type="image/png"/>
+  </item>
+</channel>
 </rss>
